@@ -3,10 +3,15 @@ Read Data, Time from system using Pytho3 and use them any where in your code
 
 
 """
+
 #In Numeric values
+
 %Y = Year (Eg. 2020, 2021, ....)
+
 %m = Month (Eg. 01, 02, 03, ....)
+
 %d = Date (Eg. 01, 02, 03, 04, ....)
+
 
 
 #12 Hr Clock
