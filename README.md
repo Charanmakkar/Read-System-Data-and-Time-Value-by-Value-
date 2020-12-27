@@ -3,7 +3,6 @@ Read Data, Time from system using Pytho3 and use them any where in your code
 
 Functions for selecting special value seperatly
 
-"""
 
 #In Numeric values
 
@@ -62,4 +61,3 @@ Seperators are of your choice
 
 "%a %b %d %Y" = " " is seperator (just a single space)
 
-"""
