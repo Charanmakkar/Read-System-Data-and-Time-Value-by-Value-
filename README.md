@@ -61,3 +61,5 @@ Seperators are of your choice
 
 "%a %b %d %Y" = " " is seperator (just a single space)
 
+
+TO UNDERSTAND HOW TO USE THEM, FOLLOW THE main.py FILE IN THIS REPOSITORY....
