@@ -27,7 +27,6 @@ e = datetime.datetime.now()
 %S = Seconds (Eg. 00, 01, ..., 60)
 %p = AM , PM (Live)
 
-(Eg. )
 #24 Hr Clock
 %H = Hours (Eg. 00, 01, ..., 24)
 %M = Minutes (Eg. 00, 01, ..., 60)
@@ -60,7 +59,7 @@ print (e.strftime("%Y-%m-%d %H:%M:%S"))
 print (e.strftime("%d/%m/%Y"))
 print (e.strftime("%I:%M:%S %p"))
 print (e.strftime("%a, %b %d, %Y"))
-print("#" * 60)
+print("#" * 40)
 
 
 """
